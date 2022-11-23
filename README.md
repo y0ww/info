@@ -1,6 +1,6 @@
 # The largest heading
 ## The second largest heading
-<div style="background:red">
+<div style="color:red">
 hola
 </div>
 *hola*
